@@ -1,3 +1,6 @@
+Create a Cipher
+create a cipher and cipher I love cryptography! Then, decipher it to make sure it works.
+
 abcdefghijklmnopqrstuvwxyz
 xyzabcdefghijklmnopqrstuvw
 
@@ -6,3 +9,11 @@ filsbzovmqldoxmev!
 
 filsbzovmqldoxmev! + key ->
 ilovecryptography!
+
+Short Essay on Data Breaches
+Link: https://securityboulevard.com/2020/06/nintendo-confirms-additional-140000-accounts-compromised-in-april-data-breach/
+Link:https://en.wikipedia.org/wiki/2020-2021_Nintendo_data_leak
+
+In April 2020, Nintendo had a data breach effecting nearly 300,000 users. This included unauthorized logins and credit card charges to their accounts. 
+
+In the data breach, user's nicknames, birthdates, country, region, email and gender were all stolen. This breach was done with a technique called "credential stuffing". This tecnique often means that users who use the same username and password for multiple sites may experience a large financial loss as the hacker uses this information to access many other sites. 
